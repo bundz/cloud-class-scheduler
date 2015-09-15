@@ -16,7 +16,7 @@ Não. É importante que um professor não de várias horas no mesmo dia.
 Quantas você precisar.
 
 ## Quantos laboratórios?
-3.
+4.
 
 ## O que significa a coluna preferencia?
 O código da disciplina que o professor prefere lecionar ou que preferem que ele lecione.
