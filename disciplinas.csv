@@ -1,0 +1,180 @@
+Codigo,Nome,CH,Semestre,Curso,Pre-requisitos,Ofertado,Horario,Lab
+1,Algoritmos e Programação / M1,4,1,CC,,SIM,NULL,M
+1,Algoritmos e Programação / M2,4,1,CC,,SIM,NULL,M
+1,Algoritmos e Programação / M5,4,1,Ambos,,SIM,NULL,M
+1,Algoritmos e Programação / M6,4,1,Ambos,,SIM,NULL,M
+5,Sistemas Discretos / T1,4,1,CC,,SIM,NULL,N
+5,Sistemas Discretos / T2,4,1,CC,,NAO,NULL,N
+5,Sistemas Discretos / T3,4,1,Ambos,,SIM,NULL,N
+8,Laboratório de Computação / P1,2,1,CC,,SIM,NULL,T
+8,Laboratório  de Computação / P2,2,1,CC,,SIM,NULL,T
+8,Laboratório  de Computação / P3,2,1,CC,,SIM,NULL,T
+11,Introdução a Ciência da Computação / T1,4,1,CC,,SIM,NULL,N
+11,Introdução a Ciência da Computação / T2,4,1,Ambos,,SIM,NULL,N
+13,Lógica para Computação / T1,4,1,CC,,SIM,NULL,N
+13,Lógica para Computação / T2,4,1,CC,,NAO,NULL,N
+15,Análise Combinatória e Teoria dos Grafos / T1,4,2,CC,,SIM,NULL,N
+16,Programação de Computadores / M1,4,2,CC,1,SIM,NULL,M
+16,Programação de Computadores / M2,4,2,CC,1,SIM,NULL,M
+16,Programação de Computadores / M3,4,2,Ambos,1,SIM,NULL,M
+16,Programação de Computadores / M4,4,2,Ambos,1,SIM,NULL,M
+20,Técnicas Digitais / M1,4,2,CC,11,SIM,NULL,M
+20,Técnicas Digitais / M2,4,2,CC,11,SIM,NULL,M
+22,Cálculo 1,4,2,Outro,,SIM,Ter-10.Qui-10,N
+23,Metodologia Científica para a Computação / T1,4,2,Ambos,,SIM,NULL,N
+23,Metodologia Científica para a Computação / T2,4,2,CC,,NAO,NULL,N
+25,Algoritmos e Estruturas de Dados I / M1,4,3,CC,16,SIM,NULL,M
+25,Algoritmos e Estruturas de Dados I / M2,4,3,Ambos,16,SIM,NULL,M
+25,Algoritmos e Estruturas de Dados I / M3,4,3,CC,16,NAO,NULL,M
+28,Conceitos de Linguagens de Programação,4,3,Ambos,,SIM,NULL,N
+29,Programação Orientada a Objetos,4,3,Ambos,16,SIM,NULL,N
+30,Arquitetura e Organização de Computadores I,4,3,CC,20,SIM,NULL,M
+30,Arquitetura e Organização de Computadores I,4,3,Ambos,20,SIM,NULL,M
+32,Linguagens Formais,4,3,CC,5,SIM,NULL,N
+32,Linguagens Formais,4,3,CC,5,NAO,NULL,N
+34,Sociologia,2,3,Outro,,SIM,Qui-13,N
+35,Cálculo 2,4,3,Outro,22,SIM,Ter-10.Qui-10,N
+36,Álgebra Linear e Geometria Analítica,6,4,Outro,,SIM,Seg-10.Qua-10.Sex-10,N
+37,Algoritmos e Estruturas de Dados II,4,4,Ambos,25,SIM,NULL,N
+38,Arquitetura e Organização de Computadores II,4,4,Ambos,30,SIM,NULL,N
+39,Epistemologia,2,4,Outro,,SIM,Ter-13,N
+40,Estatística Básica para a Computação,4,4,Outro,35,SIM,Ter-10.Qui-10,N
+41,Programação de Sistemas,4,5,Ambos,30,SIM,NULL,T
+42,Teoria da Computação,4,4,Ambos,,SIM,NULL,N
+43,Algoritmos e Estruturas de Dados III,4,5,CC,37,SIM,NULL,N
+44,Fundamentos de Inteligência Artificial,4,5,Ambos,,SIM,NULL,M
+45,Projeto de Banco de Dados,4,5,CC,,SIM,NULL,M
+46,Redes de Computadores,4,5,Ambos,,SIM,NULL,M
+47,Cálculo Numérico Computacional,4,6,Ambos,35,SIM,NULL,N
+48,Computação Gráfica,4,6,Ambos,36,SIM,NULL,N
+49,Engenharia de Software I,4,6,Ambos,,SIM,NULL,N
+50,Sistemas Operacionais,4,6,Ambos,,SIM,NULL,N
+51,Desenvolvimento de Softwares,4,7,Ambos,29,SIM,NULL,N
+52,Engenharia de Software II,4,7,Ambos,49,SIM,NULL,N
+53,Introdução ao Processamento Paralelo e Distribuído,4,7,Ambos,50,SIM,NULL,M
+54,Projeto de Compiladores ,4,7,Ambos,32,SIM,NULL,M
+55,Semântica Formal,4,7,Ambos,28,SIM,NULL,M
+56,Trabalho de Conclusão I,8,7,Ambos,24,SIM,NULL,N
+57,Computação e Sociedade,4,8,Ambos,,SIM,NULL,N
+58,Processamento Digital de Imagens,4,8,Ambos,,SIM,NULL,M
+59,Trabalho de Conclusão II,8,8,Ambos,56,SIM,NULL,N
+60,Arquitetura e Organização de Computadores Avançada,4,OPT,Ambos,,SIM,NULL,N
+61,Avaliação de Desempenho de Sistemas,4,OPT,CC,,NAO,NULL,N
+62,Banco de Dados Avançado,4,OPT,CC,,NAO,NULL,N
+63,Cálculo 3,4,OPT,CC,,NAO,NULL,N
+64,Compiladores Avançado,4,OPT,CC,,NAO,NULL,N
+65,Computação Flexível,4,OPT,CC,,NAO,NULL,N
+66,Comunicação de Dados,4,OPT,CC,,NAO,NULL,N
+67,Concepção de Circuitos Integrados,4,OPT,CC,,NAO,NULL,N
+68,Especificação e Verificação de Sistemas,4,OPT,CC,,NAO,NULL,N
+69,Ferramentas de Inteligência Artificial,4,OPT,CC,,NAO,NULL,N
+70,Gerência de Projetos,4,OPT,CC,,NAO,NULL,N
+71,Informática Industrial,4,OPT,CC,,NAO,NULL,N
+72,Inteligência Artificial Avançada,4,OPT,CC,,NAO,NULL,N
+73,Interação Humano-Computador,4,OPT,CC,,NAO,NULL,N
+74,Língua Brasileira de Sinais I,4,OPT,CC,,NAO,NULL,N
+75,Projetos em Computação I,4,OPT,CC,,NAO,NULL,N
+76,Projetos em Computação II,4,OPT,CC,,NAO,NULL,N
+77,Projetos em Computação III,4,OPT,CC,,NAO,NULL,N
+78,Projetos em Computação IV,4,OPT,CC,,NAO,NULL,N
+79,Segurança de Computadores,4,OPT,CC,,NAO,NULL,N
+80,Sistemas de Informação,4,OPT,Ambos,,SIM,NULL,N
+81,Sistemas Digitais,4,OPT,CC,,NAO,NULL,N
+82,Sistemas Distribuídos e Ubíquos,4,OPT,CC,,NAO,NULL,N
+83,Tópicos Especiais em Computação I,4,OPT,CC,,NAO,NULL,N
+84,Tópicos Especiais em Computação II,4,OPT,Ambos,,SIM,NULL,N
+85,Tópicos Especiais em Computação III,4,OPT,CC,,NAO,NULL,N
+86,Tópicos Especiais em Computação IV,4,OPT,CC,,NAO,NULL,N
+87,Web Semantica e Ontologias,4,OPT,Ambos,,SIM,NULL,N
+88,Algoritmos e Programação / M3,6,1,ENG,,SIM,NULL,M
+88,Algoritmos e Programação / M4,6,1,ENG,,SIM,NULL,M
+90,Sistemas Discretos I / T2,4,1,ENG,,SIM,NULL,N
+91,Lógica para Computação / T2,4,1,ENG,,SIM,NULL,N
+92,Introdução a Engenharia da Computação / T1,4,1,ENG,,SIM,NULL,N
+93,Cálculo 1,4,1,Outro,,SIM,Ter-10.Qui-10,N
+94,Circuitos Digitais I / M1,4,2,ENG,92,NAO,NULL,M
+94,Circuitos Digitais I / M2,4,2,ENG,92,NAO,NULL,M
+96,Cálculo 2,4,2,Outro,93,SIM,Ter-10.Qui-10,N
+97,Álgebra Linear e Geometria Analítica,6,2,Outro,,SIM,Seg-19.Qua-19.Sex-19,N
+98,Física Básica 1,4,2,Outro,,SIM,Ter-8.Qui-8,N
+99,Circuitos Digitais II / M1,4,3,ENG,94,SIM,NULL,M
+99,Circuitos Digitais II / M2,4,3,ENG,94,SIM,NULL,M
+101,Epistemologia,2,3,ENG,,SIM,Ter-15,N
+102,Cálculo 3,6,3,Outro,96,SIM,Seg-8.Ter-10.Qui-10,N
+103,Física Básica 2,4,3,Outro,98,SIM,Ter-8.Qui-8,N
+104,Análise de Circuitos I,4,4,ENG,,NAO,NULL,N
+105,Arquitetura e Organização de Computadores I / M3,4,4,ENG,99,NAO,NULL,M
+106,Equações Diferenciais,4,4,Outro,102,SIM,Ter-19.Qui-21,N
+107,Física Básica 3,4,4,Outro,103,SIM,Ter-8.Qui-8,N
+108,Eletrônica Básica I / M1,4,5,ENG,104,SIM,NULL,M
+108,Eletrônica Básica I / M2,4,5,ENG,104,SIM,NULL,M
+110,Estatística Básica,4,5,Outro,96,SIM,Seg-15.Qui-15,N
+111,Análise de Circuitos II,4,6,ENG,104,NAO,NULL,N
+112,Sistemas Digitais Avançados,4,6,ENG,99,NAO,NULL,T
+113,Eletrônica Básica II / M1,4,7,ENG,108,SIM,NULL,M
+113,Eletrônica Básica II / M2,4,7,ENG,108,NAO,NULL,M
+115,Concepção de Circuitos Integrados / M1,4,7,ENG,99,NAO,NULL,T
+116,Sistemas e Sinais,4,8,ENG,102,NAO,NULL,N
+117,Princípios de Comunicação,4,9,ENG,107,SIM,NULL,N
+118,Sistemas de Controle,4,9,ENG,116,SIM,NULL,N
+119,Análise de Algoritmos,4,OPT,ENG,,NAO,NULL,N
+120,Análise de Circuitos III,4,OPT,ENG,,NAO,NULL,N
+121,Circuitos Integrados Analógicos,4,OPT,ENG,,NAO,NULL,N
+122,Empreendedorismo,4,OPT,ENG,,NAO,NULL,N
+123,Ferramentas de CAD,4,OPT,ENG,,NAO,NULL,N
+124,Física Básica Experimental I,4,OPT,ENG,,NAO,NULL,N
+125,Física Básica Experimental II,4,OPT,ENG,,NAO,NULL,N
+126,Física Básica IV,4,OPT,ENG,,NAO,NULL,N
+127,Informática Industrial,4,OPT,ENG,,NAO,NULL,N
+128,Inteligencia Artificial II,4,OPT,ENG,,NAO,NULL,N
+129,Língua Brasileira de Sinais I,4,OPT,ENG,,NAO,NULL,N
+130,Microcontroladores,4,OPT,ENG,,NAO,NULL,N
+131,Processamento Digital de Sinais,4,OPT,ENG,,NAO,NULL,N
+132,Projeto de Sistemas Integrados Mistos,4,OPT,ENG,,NAO,NULL,N
+133,Projetos em Computação I,4,OPT,ENG,,NAO,NULL,N
+134,Projetos em Computação II,4,OPT,ENG,,NAO,NULL,N
+135,Projetos em Computação III,4,OPT,ENG,,NAO,NULL,N
+136,Projetos em Computação IV,4,OPT,ENG,,NAO,NULL,N
+137,Robótica,4,OPT,ENG,,NAO,NULL,N
+138,Sistemas de Tempo Real,4,OPT,ENG,,NAO,NULL,N
+139,Sistemas Embarcados,4,OPT,ENG,,NAO,NULL,N
+140,Sociologia,4,OPT,ENG,,NAO,NULL,N
+141,Tolerância a Falhas,4,OPT,ENG,,NAO,NULL,N
+142,Tópicos Especiais em Computação I,4,OPT,ENG,,NAO,NULL,N
+143,Topicos Especiais em Computação III,4,OPT,ENG,,NAO,NULL,N
+144,Topicos Especiais em Computação IV,4,OPT,ENG,,NAO,NULL,N
+145,Leitura e Produção de Textos,4,OPT,ENG,,NAO,NULL,N
+146,Algoritmos e Estrutura de Dados,4,1,PPGC,,SIM,NULL,N
+147,Arquitetura e Projeto de Computadores,4,1,PPGC,,SIM,NULL,N
+148,Fundamentos de IA,4,1,PPGC,,SIM,NULL,N
+149,Introdução ao PPD,4,1,PPGC,,SIM,NULL,N
+150,Metodologia para Pesquisa e Desenv.,2,1,PPGC,,SIM,NULL,N
+151,Teoria da Computação,4,1,PPGC,,SIM,NULL,N
+152,Concepção e Teste de Circ. Integrados,4,1,PPGC,,SIM,NULL,N
+153,Lógica para Computação,4,1,PPGC,,SIM,NULL,N
+154,Concepção e Teste de Circ. Integrados,4,2,PPGC,,NAO,NULL,N
+155,Sistemas Embarcados,4,2,PPGC,,NAO,NULL,N
+156,Ferramentas de CAD para Circ. Integr.,4,2,PPGC,,NAO,NULL,N
+157,Projeto Avançado de Sistemas Digitais,4,2,PPGC,,NAO,NULL,N
+158,Métodos Formais,4,2,PPGC,,NAO,NULL,N
+159,Computação Simbólica e Numérica,4,2,PPGC,,NAO,NULL,N
+160,Semântica Formal,4,2,PPGC,,NAO,NULL,N
+161,Arq. Avançadas de Computação,4,2,PPGC,,NAO,NULL,N
+162,"Sistemas Sensíveis ao C, A. e Ubíquos",4,2,PPGC,,NAO,NULL,N
+163,Processamento de Alto Desempenho,4,2,PPGC,,NAO,NULL,N
+164,Modelos Comp. para Sist. Conc. e Dist.,4,2,PPGC,,NAO,NULL,N
+165,Tópicos Avancados em Comp. Flexivel,2,2,PPGC,,NAO,NULL,N
+166,Sistemas Evolutivos,4,2,PPGC,,NAO,NULL,N
+167,Aprendizado de Máquina,4,2,PPGC,,NAO,NULL,N
+168,Sistemas Multiagente,4,2,PPGC,,NAO,NULL,N
+169,Aprendizado de Máquina,4,2,PPGC,,NAO,NULL,N
+170,Sistemas Multiagente,4,2,PPGC,,NAO,NULL,N
+171,Programação de Computadores / M1,4,x,Eng. Produção,,SIM,NULL,N
+172,Programação de Microcomputadores / M1,4,x,Eng. Ind. Mader.,,SIM,NULL,N
+173,IPD PET / T1,4,x,Eng. Geo/Petro,,SIM,NULL,N
+174,Utilização de Microcomputadores / M1,4,x,C. Sociais,,SIM,NULL,N
+175,Introdução a Computação / M1,4,x,Química,,SIM,NULL,N
+176,Introdução a Computação / M2,4,x,Eng. Civil,,SIM,NULL,N
+177,Processadores de Texto I,4,x,Bach. Letras,,SIM,NULL,N
+178,Introdução a Computação / M2,4,x,Bach. Letras,,SIM,NULL,N
+179,Planilhas Eletrônicas ,4,x,Bach. Letras,,SIM,NULL,N
